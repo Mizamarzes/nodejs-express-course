@@ -13,5 +13,11 @@
     "mizamarzes"
   ],
   "author": "Juan Diego Contreras",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
 }
